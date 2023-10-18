@@ -1,0 +1,71 @@
+.outerTable {
+  width: 80%;
+  margin: auto;
+  height: 800px;
+
+}
+
+.innerLeftTable {
+  width: 50%;
+  height: 800px;
+  float: left;
+}
+
+.innerRightTable {
+  width: 50%;
+  height: 800px;
+  float: right;
+}
+
+.innerLeftTopTable {
+  width: 100%;
+  height: 400px;
+}
+
+.innerLeftBottamTable {
+  width: 100%;
+  height: 400px;
+}
+
+.innerRightTopTable {
+  width: 100%;
+  height: 400px;
+}
+
+.innerRightBottamTable {
+  width: 100%;
+  height: 400px;
+}
+
+.innerTopInnerTable {
+  width: 100%;
+
+}
+
+.innerLeftBottamInnerTable {
+  width: 100%;
+}
+
+.innerRightInnerTopTable {
+  width: 100%;
+}
+
+.innerRightBottam {
+  width: 100%;
+}
+
+.tdColor {
+  background-color: black;
+  clear: both;
+  color: azure;
+}
+
+.t .innerTopInnerTable,
+tr,
+td {
+  text-align: center;
+}
+
+table {
+  border: 1px solid black;
+}
